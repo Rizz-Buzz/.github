@@ -1,1 +1,1 @@
-# .github
+# RizzBuzz
